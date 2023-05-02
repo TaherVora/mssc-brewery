@@ -1,13 +1,12 @@
 package taher.springframework.msscbrewery;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.junit.jupiter.api.Test;
 
 @SpringBootTest
-class MsscbreweryApplicationTests {
+public class MsscbreweryApplicationTest {
 
-	@Test
-	void contextLoads() {
-	}
-
+    @Test
+    void contextLoads() {
+    }
 }
